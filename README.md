@@ -6,7 +6,7 @@ Hej, I'm Sømjo👋
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on startups
 * ⚰️  R.I.P. HTML, CSS, JS
-* ⚡  Scrimba & Urban </3
+* ⚡  MagicEden </3
 
 ### Skills
 
