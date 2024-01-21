@@ -5,8 +5,7 @@ Hej, I'm Sømjo👋
 * ✉️  You can contact me at [somjonn@gmail.com](mailto:somjonn@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on startups
-* ⚰️  R.I.P. HTML, CSS, JS
-* ⚡  MagicEden </3
+
 
 ### Skills
 
