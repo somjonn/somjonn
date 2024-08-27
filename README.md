@@ -1,12 +1,6 @@
 Hej, I'm Sømjo👋
 ======================
 
-* 🌍  I'm speaking English, Russian, Norwegian
-* ✉️  You can contact me at [somjonn@gmail.com](mailto:somjonn@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on startups
-
-
 ### Skills
 
 
